@@ -1,1 +1,1 @@
-Olympics Tokyo 2020 Azure
+Olympics Tokyo 2020 Dashboard
